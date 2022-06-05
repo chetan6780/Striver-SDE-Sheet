@@ -4,10 +4,11 @@ Find complete [SDE-SHEET](https://takeuforward.org/interviews/strivers-sde-sheet
 
 ### Day-1
 
-| No. | Problem                                           |
-| --- | ------------------------------------------------- |
-| 1.  | [Set Matrix Zeros](DAY_1/1_setMatrixZeros.md)     |
-| 2.  | [Pascal Triangle](DAY_1/2_pascalTriangle.md)      |
-| 3 . | [Next Permutation](DAY_1/3_nextPermutation.md)    |
-| 4.  | [Maximum sum Subarray](DAY_1/4_kadanesAlgorithm.md) |
-5. | [Sort 0 1 2](DAY_1/5_sort012.md) |
+| No. | Problem                                                       |
+| --- | ------------------------------------------------------------- |
+| 1.  | [Set Matrix Zeros](DAY_1/1_setMatrixZeros.md)                 |
+| 2.  | [Pascal Triangle](DAY_1/2_pascalTriangle.md)                  |
+| 3 . | [Next Permutation](DAY_1/3_nextPermutation.md)                |
+| 4.  | [Maximum sum Subarray](DAY_1/4_kadanesAlgorithm.md)           |
+| 5.  | [Sort 0 1 2](DAY_1/5_sort012.md)                              |
+| 6.  | [Best Time to Buy and Sell Stock](DAY_1/6_buyAndSellStock.md) |
