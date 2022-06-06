@@ -18,3 +18,4 @@ Find complete [SDE-SHEET](https://takeuforward.org/interviews/strivers-sde-sheet
 | No. | Problem                                      |
 | --- | -------------------------------------------- |
 | 2.  | [Merge intervals](DAY_2/2_mergeIntervals.md) |
+| 3. | [Merge two sorted arrays](DAY_2/3_mergeSortedArrays.md) |
