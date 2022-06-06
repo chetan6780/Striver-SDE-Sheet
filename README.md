@@ -15,7 +15,8 @@ Find complete [SDE-SHEET](https://takeuforward.org/interviews/strivers-sde-sheet
 
 ### Day-2
 
-| No. | Problem                                      |
-| --- | -------------------------------------------- |
-| 2.  | [Merge intervals](DAY_2/2_mergeIntervals.md) |
-| 3. | [Merge two sorted arrays](DAY_2/3_mergeSortedArrays.md) |
+| No. | Problem                                                    |
+| --- | ---------------------------------------------------------- |
+| 2.  | [Merge intervals](DAY_2/2_mergeIntervals.md)               |
+| 3.  | [Merge two sorted arrays](DAY_2/3_mergeSortedArrays.md)    |
+| 4.  | [Find Duplicate in Array](DAY_2/4_findDuplicateInArray.md) |
