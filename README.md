@@ -12,3 +12,9 @@ Find complete [SDE-SHEET](https://takeuforward.org/interviews/strivers-sde-sheet
 | 4.  | [Maximum sum Subarray](DAY_1/4_kadanesAlgorithm.md)           |
 | 5.  | [Sort 0 1 2](DAY_1/5_sort012.md)                              |
 | 6.  | [Best Time to Buy and Sell Stock](DAY_1/6_buyAndSellStock.md) |
+
+### Day-2
+
+| No. | Problem                                      |
+| --- | -------------------------------------------- |
+| 2.  | [Merge intervals](DAY_2/2_mergeIntervals.md) |
