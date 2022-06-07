@@ -21,3 +21,4 @@ Find complete [SDE-SHEET](https://takeuforward.org/interviews/strivers-sde-sheet
 | 3.  | [Merge two sorted arrays](DAY_2/3_mergeSortedArrays.md)    |
 | 4.  | [Find Duplicate in Array](DAY_2/4_findDuplicateInArray.md) |
 | 5. | [Repeating and missing number](DAY_2/5_repeatingAndMissingNumber.md) |
+| 6. | [Count Inversions](DAY_2/6_countInversions.md) |

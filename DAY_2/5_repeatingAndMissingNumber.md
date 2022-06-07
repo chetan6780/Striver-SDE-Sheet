@@ -27,8 +27,9 @@ Given an unsorted array of size n. Array elements are in the range from 1 to n. 
 -   When we XOR x and y we get `x^y = a`.
 -   All the bits that are set in `a` will be set in either x or y.
 -   divide the elements of the array in two sets one set of elements with same bit set and other set with same bit not set.
--   By doing so, we will get x in one set and y in another set.
+-   Do the same for the 1 to n.
 -   Now if we do XOR of all the elements in first set, we will get x, and by doing same in other set we will get y.
+-   By doing so, we will get x in one set and y in another set.
 
 ### Code
 
