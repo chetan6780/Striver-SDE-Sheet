@@ -5,7 +5,7 @@ Given an array having both positive and negative integers. The task is to comput
 ### Brute force
 
 -   We generate all subarrays and find the largest subarray with 0 sum.
--   We can generate subarrays with **O(N^3), O(N^2), O(N)-using kadanes algorithm**
+-   We can generate subarrays with **O(N^3), O(N^2)-using kadanes algorithm**
 
 ### Hashing Solution
 
