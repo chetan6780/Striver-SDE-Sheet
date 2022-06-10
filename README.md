@@ -55,3 +55,14 @@ Find complete [SDE-SHEET](https://takeuforward.org/interviews/strivers-sde-sheet
 | 4   | [Remove Nth node from back](DAY_5/4_removeNthNodeFromBack.md)     |
 | 5   | [Delete a Given node O(1)](DAY_5/5_deleteGivenNode.md)            |
 | 6   | [Add two numbers as linked list](DAY_5/6_addTwoNumbersAsLList.md) |
+
+### Day - 6 (Linked List)
+
+| Sn. | Question                                                                                 |
+| --- | ---------------------------------------------------------------------------------------- |
+| 1   | [Find intersection point of Y LinkedList](DAY_6/1_findIntersectionPointOfYLinkedList.md) |
+| 2   | [Detect a cycle in Linked List](DAY_6/2_detectCycleInLL.md)                              |
+| 3   | [Reverse a LinkedList in groups of size k.](DAY_6/3_reverseLLinGroupK.md)                |
+| 4   | [Check if a LinkedList is palindrome or not.](DAY_6/4_isLLPalindrome.md)                 |
+| 5   | [Find the starting point of the Loop of LinkedList](DAY_6/5_startingPointOfLL.md)        |
+| 6   | [Flattening of a LinkedList](DAY_6/6_flatteningOfLL.md)                                  |
