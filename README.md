@@ -77,3 +77,14 @@ Find complete [SDE-SHEET](https://takeuforward.org/interviews/strivers-sde-sheet
 | 4.  | [Trapping rainwater](DAY_7/4_trappingRainwater.md)                                           |
 | 5.  | [Remove Duplicate from Sorted array](DAY_7/5_removeDuplicates.md)                            |
 | 6.  | [Max consecutive ones](DAY_7/6_maxConsecutiveOnes.md)                                        |
+
+### Day - 8 (Greedy)
+
+| Sn. | Question                                                                           |
+| --- | ---------------------------------------------------------------------------------- |
+| 1.  | [N meeting in one room](DAY_8/1_N_meeting_in_one_room.md)                          |
+| 2.  | [Minimum number of platforms required for a railway](DAY_8/2_minimum_platforms.md) |
+| 3.  | [Job sequencing Problem](DAY_8/3_job_sequencing.md)                                |
+| 4.  | [Fractional Knapsack Problem](DAY_8/4_fractional_knapsack.md)                      |
+| 5.  | [Greedy algorithm to find minimum number of coins](DAY_8/5_minimum_coins.md)       |
+| 6.  | [Activity Selection (it is same as N meeting in one room]()                        |

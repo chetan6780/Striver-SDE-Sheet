@@ -11,6 +11,9 @@ Given a value V, if we want to make a change for V Rs, and we have an infinite s
 5. If amount becomes 0, then print result.
 6. Else repeat steps 3 and 4 for new value of V.
 
+-   **Time Complexity: O(V)**
+-   **Space Complexity: O(V)**
+
 ### Code
 
 ```cpp
@@ -36,11 +39,19 @@ void findMin(int v)
 }
 ```
 
-### Complexity
-
-- Time Complexity: O(V)
-- Space Complexity: O(V)
-
-### References
-
-- GFG: [Link](https://www.geeksforgeeks.org/greedy-algorithm-to-find-minimum-number-of-coins/)
+### Codestudio
+```cpp
+int findMinimumCoins(int amount)
+{
+    int deno[] = { 1, 2, 5, 10, 20, 50, 100, 500, 1000 };
+    int n = 9;
+    int ans;
+    for (int i = n - 1; i >= 0; i--) {
+        while (amount >= deno[i]) {
+            amount -= deno[i];
+            ans++;
+        }
+    }
+    return ans;
+}
+```
