@@ -88,3 +88,14 @@ Find complete [SDE-SHEET](https://takeuforward.org/interviews/strivers-sde-sheet
 | 4.  | [Fractional Knapsack Problem](DAY_8/4_fractional_knapsack.md)                      |
 | 5.  | [Greedy algorithm to find minimum number of coins](DAY_8/5_minimum_coins.md)       |
 | 6.  | [Activity Selection (it is same as N meeting in one room]()                        |
+
+### Day - 9 (Recursion)
+
+| Sn. | Question                                                       |
+| --- | -------------------------------------------------------------- |
+| 1   | [Subset sum](DAY_9/1_subsetSum.md.md)                          |
+| 2   | [Subset sum-II](DAY_9/2_subsetSumII.md)                        |
+| 3   | [Combination sum-1](DAY_9/3_combinationSumI.md)                |
+| 4   | [Combination sum-2](DAY_9/4_combinationSumII.md)               |
+| 5   | [Palindrome Partitioning](DAY_9/5_palindromePartitioning.md)   |
+| 6   | [K-th permutation Sequence](DAY_9/6_kthPermutationSequence.md) |
