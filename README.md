@@ -25,7 +25,7 @@ Find complete [SDE-SHEET](https://takeuforward.org/interviews/strivers-sde-sheet
 
 ### Day - 3 (Arrays-III)
 
-| No. | Question                                                      |
+| No. | Problems                                                      |
 | --- | ------------------------------------------------------------- |
 | 1.  | [Search in a 2D matrix](DAY_3/1_searchIn2DMatrix.md)          |
 | 2.  | [Pow(X,n)](DAY_3/2_powXN.md)                                  |
@@ -36,7 +36,7 @@ Find complete [SDE-SHEET](https://takeuforward.org/interviews/strivers-sde-sheet
 
 ### Day-4 (Hashing)
 
-| No. | Question                                                                             |
+| No. | Problems                                                                             |
 | --- | ------------------------------------------------------------------------------------ |
 | 1.  | [2 sum problem](DAY_4/1_2sum.md)                                                     |
 | 2.  | [4 sum problem](DAY_4/2_4sum.md)                                                     |
@@ -47,7 +47,7 @@ Find complete [SDE-SHEET](https://takeuforward.org/interviews/strivers-sde-sheet
 
 ### Day - 5 (Linked List)
 
-| No. | Question                                                          |
+| No. | Problems                                                          |
 | --- | ----------------------------------------------------------------- |
 | 1.  | [Reverse a LinkedList](DAY_5/1_ReverseLinkedList.md)              |
 | 2.  | [Find middle of linked list](DAY_5/2_findMiddleOfLinkedList.md)   |
@@ -58,7 +58,7 @@ Find complete [SDE-SHEET](https://takeuforward.org/interviews/strivers-sde-sheet
 
 ### Day - 6 (Linked List)
 
-| Sn. | Question                                                                                 |
+| Sn. | Problems                                                                                 |
 | --- | ---------------------------------------------------------------------------------------- |
 | 1.  | [Find intersection point of Y LinkedList](DAY_6/1_findIntersectionPointOfYLinkedList.md) |
 | 2.  | [Detect a cycle in Linked List](DAY_6/2_detectCycleInLL.md)                              |
@@ -69,7 +69,7 @@ Find complete [SDE-SHEET](https://takeuforward.org/interviews/strivers-sde-sheet
 
 ### Day - 7 (2 Pointers)
 
-| Sn. | Question                                                                                     |
+| Sn. | Problems                                                                                     |
 | --- | -------------------------------------------------------------------------------------------- |
 | 1.  | [Rotate linked list](./DAY_7/1_rotateLL.md)                                                  |
 | 2.  | [Clone Linked List with random and next pointer](DAY_7/2_cloneLLWithRandomAndNextPointer.md) |
@@ -80,7 +80,7 @@ Find complete [SDE-SHEET](https://takeuforward.org/interviews/strivers-sde-sheet
 
 ### Day - 8 (Greedy)
 
-| Sn. | Question                                                                           |
+| Sn. | Problems                                                                           |
 | --- | ---------------------------------------------------------------------------------- |
 | 1.  | [N meeting in one room](DAY_8/1_N_meeting_in_one_room.md)                          |
 | 2.  | [Minimum number of platforms required for a railway](DAY_8/2_minimum_platforms.md) |
@@ -91,11 +91,22 @@ Find complete [SDE-SHEET](https://takeuforward.org/interviews/strivers-sde-sheet
 
 ### Day - 9 (Recursion)
 
-| Sn. | Question                                                       |
+| Sn. | Problems                                                       |
 | --- | -------------------------------------------------------------- |
-| 1   | [Subset sum](DAY_9/1_subsetSum.md.md)                          |
-| 2   | [Subset sum-II](DAY_9/2_subsetSumII.md)                        |
-| 3   | [Combination sum-1](DAY_9/3_combinationSumI.md)                |
-| 4   | [Combination sum-2](DAY_9/4_combinationSumII.md)               |
-| 5   | [Palindrome Partitioning](DAY_9/5_palindromePartitioning.md)   |
-| 6   | [K-th permutation Sequence](DAY_9/6_kthPermutationSequence.md) |
+| 1.  | [Subset sum](DAY_9/1_subsetSum.md.md)                          |
+| 2.  | [Subset sum-II](DAY_9/2_subsetSumII.md)                        |
+| 3.  | [Combination sum-1](DAY_9/3_combinationSumI.md)                |
+| 4.  | [Combination sum-2](DAY_9/4_combinationSumII.md)               |
+| 5.  | [Palindrome Partitioning](DAY_9/5_palindromePartitioning.md)   |
+| 6.  | [K-th permutation Sequence](DAY_9/6_kthPermutationSequence.md) |
+
+### Day - 10 (Recursion and Backtracking)
+
+| Sn. | Problems                                                   |
+| --- | ---------------------------------------------------------- |
+| 1.  | [All permutations of the string](DAY_10/1_permutations.md) |
+| 2.  | [N Queen Problem](DAY_10/2_nQueenProblem.md)               |
+| 3.  | [Valid sudoku](DAY_10/3_validSudoku.md)                    |
+| 4.  | [M Coloring Problem](DAY_10/4_mColoringProblem.md)         |
+| 5.  | [Rat In a Maze](DAY_10/5_ratInAMaze.md)                    |
+| 6.  | [Word Break](DAY_10/6_wordBreak.md)                        |
