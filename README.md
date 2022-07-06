@@ -113,13 +113,13 @@ Find complete [SDE-SHEET](https://takeuforward.org/interviews/strivers-sde-sheet
 
 ### Day - 11 (Binary Search)
 
-| Sn. | Problem                                                                     |
-| --- | --------------------------------------------------------------------------- |
-| 1.  | [The N-th root of an integer ](DAY_11/1_nthRootOfM.md)                      |
-| 2.  | [Matrix Median ](DAY_11/2_matrixMedian.md)                                  |
-| 3.  | [Single Element in a Sorted Array ](DAY_11/3_singleElementInSortedArray.md) |
+| Sn. | Problem                                                                      |
+| --- | ---------------------------------------------------------------------------- |
+| 1.  | [The N-th root of an integer ](DAY_11/1_nthRootOfM.md)                       |
+| 2.  | [Matrix Median ](DAY_11/2_matrixMedian.md)                                   |
+| 3.  | [Single Element in a Sorted Array ](DAY_11/3_singleElementInSortedArray.md)  |
 | 4.  | [Search in Rotated Sorted Array ](DAY_11/4_searchInRotatedSortedArray.md)    |
-| 5.  | [Median of 2 sorted arrays ](DAY_11/)                                       |
-| 6.  | [K-th element of two sorted arrays](DAY_11/)                                |
-| 7.  | [Allocate Minimum Number of Pages ](DAY_11/)                                |
-| 8.  | [Aggressive Cows ](DAY_11/)                                                 |
+| 5.  | [Median of 2 sorted arrays ](DAY_11/5_medianOfTwoSortedArray.md)             |
+| 6.  | [K-th element of two sorted arrays](DAY_11/6_kthElementOfTwoSortedArrays.md) |
+| 7.  | [Allocate Minimum Number of Pages ](DAY_11/)                                 |
+| 8.  | [Aggressive Cows ](DAY_11/)                                                  |
