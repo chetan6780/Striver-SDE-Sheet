@@ -121,5 +121,5 @@ Find complete [SDE-SHEET](https://takeuforward.org/interviews/strivers-sde-sheet
 | 4.  | [Search in Rotated Sorted Array ](DAY_11/4_searchInRotatedSortedArray.md)    |
 | 5.  | [Median of 2 sorted arrays ](DAY_11/5_medianOfTwoSortedArray.md)             |
 | 6.  | [K-th element of two sorted arrays](DAY_11/6_kthElementOfTwoSortedArrays.md) |
-| 7.  | [Allocate Minimum Number of Pages ](DAY_11/)                                 |
-| 8.  | [Aggressive Cows ](DAY_11/)                                                  |
+| 7.  | [Allocate Minimum Number of Pages ](DAY_11/7_allocatePages.md)               |
+| 8.  | [Aggressive Cows ](DAY_11/8_aggressiveCows.md)                               |
