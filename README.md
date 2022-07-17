@@ -123,3 +123,14 @@ Find complete [SDE-SHEET](https://takeuforward.org/interviews/strivers-sde-sheet
 | 6.  | [K-th element of two sorted arrays](DAY_11/6_kthElementOfTwoSortedArrays.md) |
 | 7.  | [Allocate Minimum Number of Pages ](DAY_11/7_allocatePages.md)               |
 | 8.  | [Aggressive Cows ](DAY_11/8_aggressiveCows.md)                               |
+
+### Day - 12 (Heap)
+
+| Sn. | Problem                                                                     |
+| --- | --------------------------------------------------------------------------- |
+| 1.  | [Heap Implementation (Only for interviews)](DAY_12/1_heapImplementation.md) |
+| 2.  | [Kth Largest Element](DAY_12/2_kthLargestElement.md)                        |
+| 3.  | [K Maximum Sum Combination](DAY_12/3_kMaxSumCombinations.md)                |
+| 4.  | [Find Median from Data-Stream](DAY_12/4_findMedianInDataStream.md)          |
+| 5.  | [Merge K sorted arrays](DAY_12/5_mergeKSortedArrays.md)                     |
+| 6.  | [K most frequent elements](DAY_12/6_kMostFrequentElements.md)               |
