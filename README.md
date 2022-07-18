@@ -134,3 +134,15 @@ Find complete [SDE-SHEET](https://takeuforward.org/interviews/strivers-sde-sheet
 | 4.  | [Find Median from Data-Stream](DAY_12/4_findMedianInDataStream.md)          |
 | 5.  | [Merge K sorted arrays](DAY_12/5_mergeKSortedArrays.md)                     |
 | 6.  | [K most frequent elements](DAY_12/6_kMostFrequentElements.md)               |
+
+### Day - 13 (Stack & Queue)
+
+| Sn. | Problem                                                              |
+| --- | -------------------------------------------------------------------- |
+| 1.  | [Implement Stack Using Arrays](DAY_13/1_stackArrayImplementation.md) |
+| 2.  | [Implement Queue Using Arrays](DAY_13/2_queueArrayImplementation.md) |
+| 3.  | [Implement Stack using Queue](DAY_13/3_stackUsingQueue.md)           |
+| 4.  | [Implement Queue using Stack](DAY_13/4_queueUsingStack.md)           |
+| 5.  | [Check for balanced parentheses](DAY_13/5_balancedParenthesis.md)    |
+| 6.  | [Next Greater Element](DAY_13/6_nextGreaterElement.md)               |
+| 7.  | [Sort a Stack](DAY_13/7_sortAStack.md)                               |

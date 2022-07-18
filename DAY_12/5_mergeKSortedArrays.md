@@ -12,8 +12,8 @@ You have been given ‘K’ different arrays/lists, which are sorted individuall
 
 -   Divide array into two halves
 -   Merge the two halves
--   **TC: O( n _ k _ log k)**
--   **SC: O( n _ k _ log k)**
+-   **TC: O( n \* k \* log k)**
+-   **SC: O( n \* k \* log k)**
 
 ### Code
 
