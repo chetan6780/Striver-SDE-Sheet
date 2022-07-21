@@ -1,13 +1,14 @@
-using namespace std;
+# Maximum of minimum for every window size
 
-int main()
-{
+You are given an array of ‘N’ integers, you need to find the maximum of minimum for every window size. The size of the window should vary from 1 to ‘N’ only.
 
-    return 0;
-}
+### Monotonic Stack
 
+### Code
 
+```cpp
 #include <bits/stdc++.h>
+
 void prevSmallerFun(vector<int>& nums, vector<int>& res)
 {
     int n = nums.size();
@@ -26,7 +27,7 @@ void nextSmallerFun(vector<int>& nums, vector<int>& res)
     stack<int> st;
     int n = nums.size();
     for (int i = n - 1; i >= 0; i--) {
-        while (!st.empty() && st.top() >= nums[i]) {
+        while (!st.empty() && nums[st.top()] >= nums[i]) {
             st.pop();
         }
         res[i] = st.empty() ? n : st.top();
@@ -51,3 +52,4 @@ vector<int> maxMinWindow(vector<int> a, int n)
     }
     return res;
 }
+```
