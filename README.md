@@ -161,3 +161,14 @@ Find complete [SDE-SHEET](https://takeuforward.org/interviews/strivers-sde-sheet
 | 8.  | [Stock Span Problem](DAY_14/8_stockSpanProblem.md)                            |
 | 9.  | [maximum of minimums of every window size](DAY_14/9_maxOfMinOfEveryWindow.md) |
 | 10. | [The Celebrity Problem](DAY_14/10_theCelebrityProblem.md)                     |
+
+### Day -15 (String I)
+
+| Sn. | Problem                                                                  |
+| --- | ------------------------------------------------------------------------ |
+| 1.  | [Reverse Words in a String](DAY_15/1_reverseWord.md)                     |
+| 2.  | [Longest Palindromic Substring](DAY_15/2_longestPalindromicSubstring.md) |
+| 3.  | [Roman Number to Integer and vice versa](DAY_15/3_romanToInt.md)         |
+| 4.  | [Implement ATOI/STRSTR](DAY_15/4_atoiImplementation.md)                  |
+| 5.  | [Longest Common Prefix](DAY_15/5_lcp.md)                                                   |
+| 6.  | Rabin Karp                                                               |
