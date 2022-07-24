@@ -162,7 +162,7 @@ Find complete [SDE-SHEET](https://takeuforward.org/interviews/strivers-sde-sheet
 | 9.  | [maximum of minimums of every window size](DAY_14/9_maxOfMinOfEveryWindow.md) |
 | 10. | [The Celebrity Problem](DAY_14/10_theCelebrityProblem.md)                     |
 
-### Day -15 (String I)
+### Day - 15 (String I)
 
 | Sn. | Problem                                                                  |
 | --- | ------------------------------------------------------------------------ |
@@ -172,3 +172,14 @@ Find complete [SDE-SHEET](https://takeuforward.org/interviews/strivers-sde-sheet
 | 4.  | [Implement ATOI/STRSTR](DAY_15/4_atoiImplementation.md)                  |
 | 5.  | [Longest Common Prefix](DAY_15/5_lcp.md)                                 |
 | 6.  | [Rabin Karp](DAY_15/6_rabinKarp.md)                                      |
+
+### Day - 16 (String II)
+
+| Sn. | Problem                                                     |
+| --- | ----------------------------------------------------------- |
+| 1.  | [Z-Function](DAY_16/1_zFunction.md)                         |
+| 1.  | [KMP algo / LPS(pi) array](DAY_16/2_KMP.md)                 |
+| 1.  | Minimum Characters For Palindrome                           |
+| 1.  | [Check for Anagrams](DAY_16/4_checkAnagrams.md)             |
+| 1.  | [Count and Say](DAY_16/5_countAndSay.md)                    |
+| 1.  | [Compare version numbers](DAY_16/6_compareVersionNumber.md) |
