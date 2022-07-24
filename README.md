@@ -170,5 +170,5 @@ Find complete [SDE-SHEET](https://takeuforward.org/interviews/strivers-sde-sheet
 | 2.  | [Longest Palindromic Substring](DAY_15/2_longestPalindromicSubstring.md) |
 | 3.  | [Roman Number to Integer and vice versa](DAY_15/3_romanToInt.md)         |
 | 4.  | [Implement ATOI/STRSTR](DAY_15/4_atoiImplementation.md)                  |
-| 5.  | [Longest Common Prefix](DAY_15/5_lcp.md)                                                   |
-| 6.  | Rabin Karp                                                               |
+| 5.  | [Longest Common Prefix](DAY_15/5_lcp.md)                                 |
+| 6.  | [Rabin Karp](DAY_15/6_rabinKarp.md)                                      |
