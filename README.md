@@ -178,8 +178,23 @@ Find complete [SDE-SHEET](https://takeuforward.org/interviews/strivers-sde-sheet
 | Sn. | Problem                                                     |
 | --- | ----------------------------------------------------------- |
 | 1.  | [Z-Function](DAY_16/1_zFunction.md)                         |
-| 1.  | [KMP algo / LPS(pi) array](DAY_16/2_KMP.md)                 |
-| 1.  | Minimum Characters For Palindrome                           |
-| 1.  | [Check for Anagrams](DAY_16/4_checkAnagrams.md)             |
-| 1.  | [Count and Say](DAY_16/5_countAndSay.md)                    |
-| 1.  | [Compare version numbers](DAY_16/6_compareVersionNumber.md) |
+| 2.  | [KMP algo / LPS(pi) array](DAY_16/2_KMP.md)                 |
+| 3.  | Minimum Characters For Palindrome                           |
+| 4.  | [Check for Anagrams](DAY_16/4_checkAnagrams.md)             |
+| 5.  | [Count and Say](DAY_16/5_countAndSay.md)                    |
+| 6.  | [Compare version numbers](DAY_16/6_compareVersionNumber.md) |
+
+### Day - 17 (Binary Tree)
+
+| Sn. | Problem                                                          |
+| --- | ---------------------------------------------------------------- |
+| 1.  | [Inorder Traversal](DAY_17/1_inorderTraversal.md)                |
+| 2.  | [Preorder Traversal](DAY_17/2_preorderTraversal.md)              |
+| 3.  | [Postorder Traversal](DAY_17/3_postorderTraversal.md)            |
+| 4.  | [LeftView Of Binary Tree](DAY_17/4_leftViewOfBinaryTree.md)      |
+| 5.  | [Bottom View of Binary Tree](DAY_17/5_bottomViewOfBinaryTree.md) |
+| 6.  | [Top View of Binary Tree](DAY_17/6_topViewOfBinaryTree.md)       |
+| 7.  | Preorder inorder postorder in a single traversal                 |
+| 8.  | Vertical order traversal                                         |
+| 9.  | Root to node path in a Binary Tree                               |
+| 10. | Max width of a Binary Tree                                       |
