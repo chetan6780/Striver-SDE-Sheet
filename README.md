@@ -186,15 +186,15 @@ Find complete [SDE-SHEET](https://takeuforward.org/interviews/strivers-sde-sheet
 
 ### Day - 17 (Binary Tree)
 
-| Sn. | Problem                                                          |
-| --- | ---------------------------------------------------------------- |
-| 1.  | [Inorder Traversal](DAY_17/1_inorderTraversal.md)                |
-| 2.  | [Preorder Traversal](DAY_17/2_preorderTraversal.md)              |
-| 3.  | [Postorder Traversal](DAY_17/3_postorderTraversal.md)            |
-| 4.  | [LeftView Of Binary Tree](DAY_17/4_leftViewOfBinaryTree.md)      |
-| 5.  | [Bottom View of Binary Tree](DAY_17/5_bottomViewOfBinaryTree.md) |
-| 6.  | [Top View of Binary Tree](DAY_17/6_topViewOfBinaryTree.md)       |
-| 7.  | Preorder inorder postorder in a single traversal                 |
-| 8.  | Vertical order traversal                                         |
-| 9.  | Root to node path in a Binary Tree                               |
-| 10. | Max width of a Binary Tree                                       |
+| Sn. | Problem                                                                         |
+| --- | ------------------------------------------------------------------------------- |
+| 1.  | [Inorder Traversal](DAY_17/1_inorderTraversal.md)                               |
+| 2.  | [Preorder Traversal](DAY_17/2_preorderTraversal.md)                             |
+| 3.  | [Postorder Traversal](DAY_17/3_postorderTraversal.md)                           |
+| 4.  | [LeftView Of Binary Tree](DAY_17/4_leftViewOfBinaryTree.md)                     |
+| 5.  | [Bottom View of Binary Tree](DAY_17/5_bottomViewOfBinaryTree.md)                |
+| 6.  | [Top View of Binary Tree](DAY_17/6_topViewOfBinaryTree.md)                      |
+| 7.  | [Preorder inorder postorder in a single traversal](DAY_17/7_3traversalInOne.md) |
+| 8.  | [Vertical order traversal](DAY_17/8_verticalOrderTraversal.md)                  |
+| 9.  | [Root to node path in a Binary Tree](DAY_17/9_rootToNodePath.md)                |
+| 10. | [Max width of a Binary Tree](DAY_17/10_maxWidthOfBinaryTree.md)                 |
