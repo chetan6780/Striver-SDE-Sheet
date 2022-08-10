@@ -210,4 +210,4 @@ Find complete [SDE-SHEET](https://takeuforward.org/interviews/strivers-sde-sheet
 | 5.  | [LCA in Binary Tree](DAY_18/5_LCAOfBT.md)                                          |
 | 6.  | [Check if two trees are identical or not](DAY_18/6_sameTree.md)                    |
 | 7.  | [Zig Zag Traversal of Binary Tree](DAY_18/7_zigZagTraversal.md)                    |
-| 8.  | Boundary Traversal of Binary Tree                                                  |
+| 8.  | [Boundary Traversal of Binary Tree](DAY_18/8_boundaryTraversalOfBt.md)             |
