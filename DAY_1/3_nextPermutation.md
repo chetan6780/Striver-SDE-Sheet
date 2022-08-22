@@ -36,6 +36,8 @@ void allPermutations(vector<vector<int>> ans, vector<int> nums, int ind)
 
 </details>
 
+---
+
 ### O(N) Time solution.
 
 -   INTUITION:- If we Observe the dictionary of order(permeation order) we can find that there is always Triangle like structure.
