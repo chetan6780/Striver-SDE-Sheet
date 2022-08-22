@@ -211,3 +211,15 @@ Find complete [SDE-SHEET](https://takeuforward.org/interviews/strivers-sde-sheet
 | 6.  | [Check if two trees are identical or not](DAY_18/6_sameTree.md)                    |
 | 7.  | [Zig Zag Traversal of Binary Tree](DAY_18/7_zigZagTraversal.md)                    |
 | 8.  | [Boundary Traversal of Binary Tree](DAY_18/8_boundaryTraversalOfBt.md)             |
+
+### Day - 19 (Binary Tree - 3)
+
+| Sn. | Problem                                                                                 |
+| --- | --------------------------------------------------------------------------------------- |
+| 1.  | [Maximum path sum](DAY_19/1_maxPathSum.md)                                              |
+| 2.  | [Construct Binary Tree from inorder and Preorder](DAY_19/2_constructBTFromInAndPre.md) |
+| 3.  | [Construct Binary Tree from Inorder and Postorder](DAY_19/3_constructBTFromInAndPost.md) |
+| 4.  | Symmetric Binary Tree                                                                   |
+| 5.  | Flatten Binary Tree to LinkedList                                                       |
+| 6.  | Check if Binary Tree is the mirror of itself or not                                     |
+| 7.  | Check for Children Sum Property                                                         |
