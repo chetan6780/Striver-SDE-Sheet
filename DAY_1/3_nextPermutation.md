@@ -39,7 +39,7 @@ void allPermutations(vector<vector<int>> ans, vector<int> nums, int ind)
 ### O(N) Time solution.
 
 -   INTUITION:- If we Observe the dictionary of order(permeation order) we can find that there is always Triangle like structure.
--   Just make permutation of `{1,2,3}` or `{1,2,3,4}` and observer the pattern.
+-   Just make permutation of `{1,2,3}` or `{1,2,3,4}` and observe the pattern.
 
 ```
 1  2  3     2  1  3     3  1  2

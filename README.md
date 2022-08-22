@@ -218,7 +218,7 @@ Find complete [SDE-SHEET](https://takeuforward.org/interviews/strivers-sde-sheet
 | --- | --------------------------------------------------------------------------------------- |
 | 1.  | [Maximum path sum](DAY_19/1_maxPathSum.md)                                              |
 | 2.  | [Construct Binary Tree from inorder and Preorder](DAY_19/2_constructBTFromInAndPre.md) |
-| 3.  | [Construct Binary Tree from Inorder and Postorder](DAY_19/2_constructBTFromInAndPost.md) |
+| 3.  | [Construct Binary Tree from Inorder and Postorder](DAY_19/3_constructBTFromInAndPost.md) |
 | 4.  | Symmetric Binary Tree                                                                   |
 | 5.  | Flatten Binary Tree to LinkedList                                                       |
 | 6.  | Check if Binary Tree is the mirror of itself or not                                     |
