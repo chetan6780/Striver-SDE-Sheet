@@ -14,9 +14,8 @@ The replacement must be in place and use only constant extra memory.
 -   **TC: O(N!\*N)** - Because there are N! orders and N is the length of every array.
 -   **SC: O(N!)** - To store all permutations, there are N! permutations.
 
-<details>
-  <summary>Get all permutations with recursion</summary>
-  
+##### Get all permutations with recursion
+
 ```cpp
 void allPermutations(vector<vector<int>> ans, vector<int> nums, int ind)
 {
@@ -33,8 +32,6 @@ void allPermutations(vector<vector<int>> ans, vector<int> nums, int ind)
     }
 }
 ```
-
-</details>
 
 ---
 
